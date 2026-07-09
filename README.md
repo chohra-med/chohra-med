@@ -19,16 +19,16 @@
 
 ## About
 
-I'm a mobile engineer, nine years of shipping React Native and Expo apps at scale. Now I build the tools I kept wishing existed: an SDK that lets an AI render real native UI instead of chat bubbles, boilerplates that start production-ready, and Claude skills that keep AI output on-brand and honest.
+Nine years shipping React Native and Expo apps, and for most of them I wanted tools that didn't exist yet. So now I build them. An SDK that lets an AI render real native UI instead of another chat bubble. Boilerplates that start where the boring setup ends. Claude skills that keep AI output on-brand instead of drifting to defaults.
 
-I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, minus the hype. Berlin-based, open-source first.
+I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, receipts not hype. Berlin, open-source first.
 
 ## What I'm building
 
-- **[Wire AI](https://getwireai.com)** — the open-source generative UI SDK for React Native. An LLM drives real native components at runtime, validated by Zod. No WebView, no HTML.
-- **[AI Mobile Launcher](https://aimobilelauncher.com)** — a production Expo boilerplate. Auth, payments, AI, and the Claude rules baked in, so you start at the interesting part.
-- **Code Meet AI** — a weekly newsletter on shipping real products with AI. The receipts, not the takes.
-- **Colorway C** — the design system behind all of it, packaged so an AI can apply it directly.
+- **[Wire AI](https://getwireai.com)** is the open-source generative UI SDK for React Native. An LLM drives real native components at runtime, Zod-validated. No WebView, no HTML.
+- **[AI Mobile Launcher](https://aimobilelauncher.com)** is a production Expo boilerplate: auth, payments, AI, and the Claude rules already wired, so you start at the interesting part.
+- **Code Meet AI**, my weekly newsletter on shipping real products with AI. Receipts, not takes.
+- **Colorway C**, the design system behind all of it, packaged so an AI can apply it directly.
 
 ## Open source
 
