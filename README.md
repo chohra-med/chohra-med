@@ -44,8 +44,12 @@ I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, 
 
 <br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=chohra-med&show_icons=true&hide_border=true&hide_title=true&bg_color=0E0E10&text_color=FAFAF8&icon_color=3BA9AE&title_color=3BA9AE" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohra-med&layout=compact&hide_border=true&bg_color=0E0E10&text_color=FAFAF8&title_color=3BA9AE&langs_count=6" alt="Top languages" />
+![React Native](https://img.shields.io/badge/React_Native-3BA9AE?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-3BA9AE?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3BA9AE?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-3BA9AE?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3BA9AE?style=flat-square&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-3BA9AE?style=flat-square&logo=anthropic&logoColor=white)
 
 <br><br>
 
