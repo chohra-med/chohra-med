@@ -8,10 +8,10 @@
 
 <br><br>
 
-[![Newsletter](https://img.shields.io/badge/Newsletter-Code%20Meet%20AI-3BA9AE?style=flat-square&logo=substack&logoColor=white)](https://codemeetai.substack.com)
-[![Website](https://img.shields.io/badge/Web-getwireai.com-3BA9AE?style=flat-square&logo=googlechrome&logoColor=white)](https://getwireai.com)
-[![X](https://img.shields.io/badge/X-@malik__chohra-3BA9AE?style=flat-square&logo=x&logoColor=white)](https://x.com/malik_chohra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Chohra-3BA9AE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-chohra/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Code%20Meet%20AI-1F4A35?style=flat-square&logo=substack&logoColor=white)](https://codemeetai.substack.com)
+[![Website](https://img.shields.io/badge/Web-getwireai.com-1F4A35?style=flat-square&logo=googlechrome&logoColor=white)](https://getwireai.com)
+[![X](https://img.shields.io/badge/X-@malik__chohra-1F4A35?style=flat-square&logo=x&logoColor=white)](https://x.com/malik_chohra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Chohra-1F4A35?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-chohra/)
 
 </div>
 
@@ -28,7 +28,8 @@ I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, 
 - **[Wire AI](https://getwireai.com)** is the open-source generative UI SDK for React Native. An LLM drives real native components at runtime, Zod-validated. No WebView, no HTML.
 - **[AI Mobile Launcher](https://aimobilelauncher.com)** is a production Expo boilerplate: auth, payments, AI, and the Claude rules already wired, so you start at the interesting part.
 - **Code Meet AI**, my weekly newsletter on shipping real products with AI. Receipts, not takes.
-- **Colorway C**, the design system behind all of it, packaged so an AI can apply it directly.
+- **[Second Brain](https://casainnov.com/second-brain)** is a plain Markdown memory for one project, so Claude Code and Codex start each session knowing what the project is.
+- **[Spec Harness](https://casainnov.com/spec-harness)** is spec-driven development for AI coding agents, with a separate verifier that says PASS or FAIL.
 
 ## Open source
 
@@ -38,18 +39,20 @@ I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, 
 | **[expo_boilerplate](https://github.com/chohra-med/expo_boilerplate)** | AI-first Expo starter. Feature-first, TypeScript, auth, i18n, theming, Cursor + Claude rules. |
 | **[mcp-for-your-app](https://github.com/chohra-med/mcp-for-your-app)** | A guide + two Claude skills: audit whether an AI can see your app's funnel, then build the MCP that makes it reachable. |
 | **[claude_design_skill](https://github.com/chohra-med/claude_design_skill)** | A Claude skill that front-loads design tokens so AI-generated UI stays on-brand, then verifies it. |
-| **[colorway-c-brand](https://github.com/chohra-med/colorway-c-brand)** | The Colorway C design system as an agent-readable skill: palette, type, motion, rules. |
+| **[colorway-c-brand](https://github.com/chohra-med/colorway-c-brand)** | The original Colorway C design system as an agent-readable skill, kept as a frozen showcase. |
+| **[spec-harness-oss](https://github.com/chohra-med/spec-harness-oss)** | Spec-driven development for AI coding agents, with a separate verifier that says PASS or FAIL. |
+| **[second-brain-starter](https://github.com/chohra-med/second-brain-starter)** | A free Markdown memory for one project, with safe setup for Claude Code and Codex. |
 
 <div align="center">
 
 <br>
 
-![React Native](https://img.shields.io/badge/React_Native-3BA9AE?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-3BA9AE?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3BA9AE?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-3BA9AE?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3BA9AE?style=flat-square&logo=nodedotjs&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-3BA9AE?style=flat-square&logo=anthropic&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1F4A35?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1F4A35?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F4A35?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F4A35?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1F4A35?style=flat-square&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1F4A35?style=flat-square&logo=anthropic&logoColor=white)
 
 <br><br>
 
