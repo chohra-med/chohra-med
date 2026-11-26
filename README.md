@@ -9,7 +9,7 @@
 <br><br>
 
 [![Newsletter](https://img.shields.io/badge/Newsletter-Code%20Meet%20AI-1F4A35?style=flat-square&logo=substack&logoColor=white)](https://codemeetai.substack.com)
-[![Website](https://img.shields.io/badge/Web-getwireai.com-1F4A35?style=flat-square&logo=googlechrome&logoColor=white)](https://getwireai.com)
+[![Website](https://img.shields.io/badge/Web-malikchohra.com-1F4A35?style=flat-square&logo=googlechrome&logoColor=white)](https://malikchohra.com/start?utm_source=github&utm_medium=profile&utm_campaign=hub)
 [![X](https://img.shields.io/badge/X-@malik__chohra-1F4A35?style=flat-square&logo=x&logoColor=white)](https://x.com/malik_chohra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Chohra-1F4A35?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-chohra/)
 
@@ -22,6 +22,8 @@
 Nine years shipping React Native and Expo apps, and for most of them I wanted tools that didn't exist yet. So now I build them. An SDK that lets an AI render real native UI instead of another chat bubble. Boilerplates that start where the boring setup ends. Claude skills that keep AI output on-brand instead of drifting to defaults.
 
 I write about all of it in **[Code Meet AI](https://codemeetai.substack.com)**, receipts not hype. Berlin, open-source first.
+
+Everything I make, in one place: [malikchohra.com](https://malikchohra.com/start?utm_source=github&utm_medium=profile&utm_campaign=hub)
 
 ## What I'm building
 
